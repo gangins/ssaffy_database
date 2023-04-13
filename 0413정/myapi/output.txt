@@ -1,0 +1,202 @@
+[
+{
+    "model": "articles.article",
+    "pk": 1,
+    "fields": {
+        "title": "General edge our num",
+        "content": "War cold dog short window themselves security throughout. Most important friend order. Wind that call ever.",
+        "created_at": "1991-10-03T07:31:37Z",
+        "updated_at": "2010-02-03T13:45:52Z"
+    }
+},
+{
+    "model": "articles.article",
+    "pk": 2,
+    "fields": {
+        "title": "Generation door part",
+        "content": "Include two admit eye. Among here whatever method those probably.\nWhole difficult wrong hundred modern test strong. Minute national huge.\nGun play matter instead.",
+        "created_at": "1979-03-06T13:40:30Z",
+        "updated_at": "2004-11-22T11:05:43Z"
+    }
+},
+{
+    "model": "articles.article",
+    "pk": 3,
+    "fields": {
+        "title": "Meeting test lawyer ",
+        "content": "Near event story save hand. Least seat education spend soldier. Spend left board rule.\nTen section issue. Market consumer social none.",
+        "created_at": "2010-05-11T15:26:57Z",
+        "updated_at": "2016-01-07T16:01:21Z"
+    }
+},
+{
+    "model": "articles.article",
+    "pk": 4,
+    "fields": {
+        "title": "Career take color.",
+        "content": "Yourself oil single create company arm. Increase board degree media resource. Near bring fire open value company might.",
+        "created_at": "1994-11-19T14:09:53Z",
+        "updated_at": "1973-02-03T20:34:38Z"
+    }
+},
+{
+    "model": "articles.article",
+    "pk": 5,
+    "fields": {
+        "title": "Point rule enough pu",
+        "content": "Drop force history service may somebody reflect. Dinner institution focus get travel land. Officer amount identify sometimes professor anyone.",
+        "created_at": "1998-09-24T23:27:09Z",
+        "updated_at": "2012-10-27T15:01:52Z"
+    }
+},
+{
+    "model": "articles.article",
+    "pk": 6,
+    "fields": {
+        "title": "State cause should p",
+        "content": "Specific than program operation always baby as similar. Describe shake throughout agent voice.\nModel until technology standard talk. Each that soldier.",
+        "created_at": "2023-03-13T01:22:50Z",
+        "updated_at": "2022-02-19T10:43:44Z"
+    }
+},
+{
+    "model": "articles.article",
+    "pk": 7,
+    "fields": {
+        "title": "Factor staff buy tal",
+        "content": "Star support some different detail. Decade east among store organization dark image car. My college friend last truth establish.\nOk property build tree adult hear. Bring off instead. Think item idea.",
+        "created_at": "2002-03-15T21:19:26Z",
+        "updated_at": "1980-04-28T02:26:51Z"
+    }
+},
+{
+    "model": "articles.article",
+    "pk": 8,
+    "fields": {
+        "title": "Without possible dev",
+        "content": "Religious paper better suddenly view close every whatever. Offer hot character down player along class. Congress place available support.",
+        "created_at": "1994-11-11T15:50:36Z",
+        "updated_at": "2009-02-06T19:58:18Z"
+    }
+},
+{
+    "model": "articles.article",
+    "pk": 9,
+    "fields": {
+        "title": "Manage scientist cul",
+        "content": "Read lay upon suffer word. Leave number else wrong. Coach class perhaps growth sound will car long.",
+        "created_at": "2015-03-20T06:02:16Z",
+        "updated_at": "1980-04-13T22:24:49Z"
+    }
+},
+{
+    "model": "articles.article",
+    "pk": 10,
+    "fields": {
+        "title": "Notice skin rock peo",
+        "content": "Often play must far tax. Social mention seat company doctor control door.",
+        "created_at": "1983-04-15T20:27:55Z",
+        "updated_at": "2020-11-12T00:29:50Z"
+    }
+},
+{
+    "model": "articles.article",
+    "pk": 11,
+    "fields": {
+        "title": "On send discover bod",
+        "content": "Grow game cover radio practice budget. Anything study able project local home include.",
+        "created_at": "1986-11-11T10:50:04Z",
+        "updated_at": "2016-03-14T13:08:19Z"
+    }
+},
+{
+    "model": "articles.article",
+    "pk": 12,
+    "fields": {
+        "title": "Focus help conferenc",
+        "content": "Husband better you. Consumer too maintain again car. Ok born wonder money shake them military true.\nExactly should list security exactly letter. Within necessary after.",
+        "created_at": "1977-12-28T23:20:01Z",
+        "updated_at": "1986-05-24T05:16:59Z"
+    }
+},
+{
+    "model": "articles.article",
+    "pk": 13,
+    "fields": {
+        "title": "Leg generation popul",
+        "content": "Imagine play add road knowledge draw either. I call place people. Chance speech save event local my.\nProduce beyond half. As military billion citizen garden across.",
+        "created_at": "2006-11-02T07:01:53Z",
+        "updated_at": "1980-10-20T07:36:56Z"
+    }
+},
+{
+    "model": "articles.article",
+    "pk": 14,
+    "fields": {
+        "title": "Top nothing talk pap",
+        "content": "Many low accept image soldier factor know.\nFollow skill near. Their always thousand old.\nBest sure bank cover seat raise. Responsibility sport order list when sit. Something throw section social.",
+        "created_at": "2001-07-21T23:54:46Z",
+        "updated_at": "1989-05-08T15:21:18Z"
+    }
+},
+{
+    "model": "articles.article",
+    "pk": 15,
+    "fields": {
+        "title": "Order capital maybe ",
+        "content": "Mrs year but check. Better treatment born authority adult future night. Poor material assume it.\nPublic particular serve wife.\nThey production door. Enjoy since large guy present less nature.",
+        "created_at": "1995-07-19T02:03:25Z",
+        "updated_at": "1981-12-29T20:16:22Z"
+    }
+},
+{
+    "model": "articles.article",
+    "pk": 16,
+    "fields": {
+        "title": "Adult cup support un",
+        "content": "Themselves of social high education live similar and. Network could tree international teacher.\nIdentify peace hand skin fact trial.",
+        "created_at": "2006-07-30T23:38:20Z",
+        "updated_at": "1988-07-11T02:11:23Z"
+    }
+},
+{
+    "model": "articles.article",
+    "pk": 17,
+    "fields": {
+        "title": "Get station like sea",
+        "content": "Rule measure rich claim at power. Build important itself. You card among ask. Blue town give your.",
+        "created_at": "1999-08-26T23:12:28Z",
+        "updated_at": "1998-09-28T22:42:06Z"
+    }
+},
+{
+    "model": "articles.article",
+    "pk": 18,
+    "fields": {
+        "title": "Each knowledge build",
+        "content": "Above direction political your. End well can government article. Available coach simply drop.",
+        "created_at": "1992-04-11T12:34:04Z",
+        "updated_at": "1999-12-08T01:04:34Z"
+    }
+},
+{
+    "model": "articles.article",
+    "pk": 19,
+    "fields": {
+        "title": "Sure man pretty oper",
+        "content": "Federal democratic what law two. Forward nothing together admit everyone across behavior. Everybody after performance.\nIts ok surface rule. Wind discussion section particular free growth behind.",
+        "created_at": "1994-03-14T19:07:05Z",
+        "updated_at": "1983-08-26T05:23:47Z"
+    }
+},
+{
+    "model": "articles.article",
+    "pk": 20,
+    "fields": {
+        "title": "Media phone governme",
+        "content": "Effort fish from character just free. Value base together many. Little agency right raise.\nNetwork drug design method vote today agree. Room condition tonight.",
+        "created_at": "1980-12-31T04:02:35Z",
+        "updated_at": "2014-07-05T04:38:13Z"
+    }
+}
+]
